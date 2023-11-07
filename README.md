@@ -8,7 +8,7 @@ Imagine you're sitting down for a meal, and you're not quite sure what to prepar
 
 2. **Time of Day:** Next, you let the system know whether it's breakfast, lunch, or dinner. Your craving might differ depending on the hour.
 
-3. **Flavor Type:** You can specify the flavor profile you're in the mood for. Is it something sweet, spicy, or maybe a combination of these?
+3. **Flavor Type:** You can specify the flavor profile you're in the mood for. Is it something sweet, spicy, or even sour!
 
 4. **Course Type:** Are you looking for a side dish, a main course, or a dessert? Specify your course type to narrow down the options.
 
